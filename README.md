@@ -1,6 +1,10 @@
-# Real Estate Website
+# DreamDwell - Real Estate Website
 
 Welcome to the DreamDwell repository!
+![Screenshot (29)](https://github.com/francisz1011/DreamDwell/assets/113845954/142b88be-49d5-41f6-9c1d-8104def39754)
+![Screenshot (28)](https://github.com/francisz1011/DreamDwell/assets/113845954/3924d252-1357-43a1-9f34-c3a8fdaed7b9)
+
+
 
 ## Table of Contents
 
@@ -13,12 +17,10 @@ Welcome to the DreamDwell repository!
 
 ## Features
 
-- [List some key features and functionalities of your real estate website.]
+- Landing Page For a Real Estate Company Website
 
 ## Demo
-
-- [Provide a link to a live demo of your real estate website (if available).]
-- [Include screenshots or GIFs to showcase the user interface and key features.]
+Live Link of website hosted on Vercel:- https://dream-dwell.vercel.app/
 
 ## Getting Started
 
