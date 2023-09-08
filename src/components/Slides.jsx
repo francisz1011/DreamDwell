@@ -1,9 +1,9 @@
 import React from 'react'
 import Carousel from './Carousel'
-import projectsVideo1 from '../assets/projectsVideo1.mp4';
-import projectsVideo2 from '../assets/projectsVideo2.mp4';
-import projectsVideo3 from '../assets/projectsVideo3.mp4';
-import projectsVideo4 from '../assets/projectsVideo4.mp4';
+import projectsVideo1 from '/assets/projectsVideo1.mp4';
+import projectsVideo2 from '/assets/projectsVideo2.mp4';
+import projectsVideo3 from '/assets/projectsVideo3.mp4';
+import projectsVideo4 from '/assets/projectsVideo4.mp4';
 
 
 const videos = [

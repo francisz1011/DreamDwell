@@ -1,4 +1,4 @@
-import Homevideo from "/src/assets/HomeVideo.mp4"
+import Homevideo from "/assets/HomeVideo.mp4"
 
 
 
